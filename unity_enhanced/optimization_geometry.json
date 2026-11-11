@@ -1,0 +1,3118 @@
+{
+  "version": "v25",
+  "chunks": 518,
+  "LOD_groups": 176,
+  "near_triangles": 5879125,
+  "far_triangles": 3862569,
+  "sha256": "1a035e118c01e2af1cafb97aa56b5ebd125f0c65f8a3b8734f8a3bb0abdd28a8",
+  "details": [
+    {
+      "chunk": "Chunk_ARCH_A_00_BNE_000",
+      "category": "ARCH",
+      "near_triangles": 760,
+      "far_triangles": 760
+    },
+    {
+      "chunk": "Chunk_ARCH_A_01_BNE_000",
+      "category": "ARCH",
+      "near_triangles": 802,
+      "far_triangles": 802
+    },
+    {
+      "chunk": "Chunk_ARCH_A_02_BNE_000",
+      "category": "ARCH",
+      "near_triangles": 1900,
+      "far_triangles": 1900
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_000",
+      "category": "ARCH",
+      "near_triangles": 1140,
+      "far_triangles": 1140
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_000",
+      "category": "ARCH",
+      "near_triangles": 1184,
+      "far_triangles": 1184
+    },
+    {
+      "chunk": "Chunk_ARCH_A_05_BNE_000",
+      "category": "ARCH",
+      "near_triangles": 1900,
+      "far_triangles": 1900
+    },
+    {
+      "chunk": "Chunk_ARCH_A_06_BNE_000",
+      "category": "ARCH",
+      "near_triangles": 802,
+      "far_triangles": 802
+    },
+    {
+      "chunk": "Chunk_ARCH_A_07_BNE_000",
+      "category": "ARCH",
+      "near_triangles": 728,
+      "far_triangles": 728
+    },
+    {
+      "chunk": "Chunk_ARCH_A_08_BNE_000",
+      "category": "ARCH",
+      "near_triangles": 760,
+      "far_triangles": 760
+    },
+    {
+      "chunk": "Chunk_ARCH_A_09_BNE_000",
+      "category": "ARCH",
+      "near_triangles": 720,
+      "far_triangles": 720
+    },
+    {
+      "chunk": "Chunk_ARCH_A_10_BNE_000",
+      "category": "ARCH",
+      "near_triangles": 774,
+      "far_triangles": 774
+    },
+    {
+      "chunk": "Chunk_ARCH_A_11_BNE_000",
+      "category": "ARCH",
+      "near_triangles": 710,
+      "far_triangles": 710
+    },
+    {
+      "chunk": "Chunk_ARCH_A_12_BNE_000",
+      "category": "ARCH",
+      "near_triangles": 802,
+      "far_triangles": 802
+    },
+    {
+      "chunk": "Chunk_ARCH_A_13_BNE_000",
+      "category": "ARCH",
+      "near_triangles": 774,
+      "far_triangles": 774
+    },
+    {
+      "chunk": "Chunk_ARCH_A_14_BNE_000",
+      "category": "ARCH",
+      "near_triangles": 720,
+      "far_triangles": 720
+    },
+    {
+      "chunk": "Chunk_ARCH_A_15_BNE_000",
+      "category": "ARCH",
+      "near_triangles": 728,
+      "far_triangles": 728
+    },
+    {
+      "chunk": "Chunk_ARCH_A_15_BNE_001",
+      "category": "ARCH",
+      "near_triangles": 13752,
+      "far_triangles": 13752
+    },
+    {
+      "chunk": "Chunk_ARCH_A_00_BNE_001",
+      "category": "ARCH",
+      "near_triangles": 12066,
+      "far_triangles": 12066
+    },
+    {
+      "chunk": "Chunk_ARCH_A_01_BNE_001",
+      "category": "ARCH",
+      "near_triangles": 14276,
+      "far_triangles": 14276
+    },
+    {
+      "chunk": "Chunk_ARCH_A_02_BNE_001",
+      "category": "ARCH",
+      "near_triangles": 12594,
+      "far_triangles": 12594
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_001",
+      "category": "ARCH",
+      "near_triangles": 13082,
+      "far_triangles": 13082
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_001",
+      "category": "ARCH",
+      "near_triangles": 13590,
+      "far_triangles": 13590
+    },
+    {
+      "chunk": "Chunk_ARCH_A_05_BNE_001",
+      "category": "ARCH",
+      "near_triangles": 13164,
+      "far_triangles": 13164
+    },
+    {
+      "chunk": "Chunk_ARCH_A_06_BNE_001",
+      "category": "ARCH",
+      "near_triangles": 12146,
+      "far_triangles": 12146
+    },
+    {
+      "chunk": "Chunk_ARCH_A_07_BNE_001",
+      "category": "ARCH",
+      "near_triangles": 12800,
+      "far_triangles": 12800
+    },
+    {
+      "chunk": "Chunk_ARCH_A_08_BNE_001",
+      "category": "ARCH",
+      "near_triangles": 13606,
+      "far_triangles": 13606
+    },
+    {
+      "chunk": "Chunk_ARCH_A_09_BNE_001",
+      "category": "ARCH",
+      "near_triangles": 14424,
+      "far_triangles": 14424
+    },
+    {
+      "chunk": "Chunk_ARCH_A_10_BNE_001",
+      "category": "ARCH",
+      "near_triangles": 11818,
+      "far_triangles": 11818
+    },
+    {
+      "chunk": "Chunk_ARCH_A_11_BNE_001",
+      "category": "ARCH",
+      "near_triangles": 12572,
+      "far_triangles": 12572
+    },
+    {
+      "chunk": "Chunk_ARCH_A_12_BNE_001",
+      "category": "ARCH",
+      "near_triangles": 13672,
+      "far_triangles": 13672
+    },
+    {
+      "chunk": "Chunk_ARCH_A_13_BNE_001",
+      "category": "ARCH",
+      "near_triangles": 12014,
+      "far_triangles": 12014
+    },
+    {
+      "chunk": "Chunk_ARCH_A_14_BNE_001",
+      "category": "ARCH",
+      "near_triangles": 12952,
+      "far_triangles": 12952
+    },
+    {
+      "chunk": "Chunk_ARCH_A_00_BNE_002",
+      "category": "ARCH",
+      "near_triangles": 41754,
+      "far_triangles": 41754
+    },
+    {
+      "chunk": "Chunk_ARCH_A_12_BNE_002",
+      "category": "ARCH",
+      "near_triangles": 41370,
+      "far_triangles": 41370
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_002",
+      "category": "ARCH",
+      "near_triangles": 41315,
+      "far_triangles": 41315
+    },
+    {
+      "chunk": "Chunk_ARCH_A_08_BNE_002",
+      "category": "ARCH",
+      "near_triangles": 41746,
+      "far_triangles": 41746
+    },
+    {
+      "chunk": "Chunk_ARCH_A_05_BNE_003",
+      "category": "ARCH",
+      "near_triangles": 22,
+      "far_triangles": 22
+    },
+    {
+      "chunk": "Chunk_ARCH_A_15_BNE_003",
+      "category": "ARCH",
+      "near_triangles": 18,
+      "far_triangles": 18
+    },
+    {
+      "chunk": "Chunk_ARCH_A_00_BNE_003",
+      "category": "ARCH",
+      "near_triangles": 18,
+      "far_triangles": 18
+    },
+    {
+      "chunk": "Chunk_ARCH_A_01_BNE_003",
+      "category": "ARCH",
+      "near_triangles": 22,
+      "far_triangles": 22
+    },
+    {
+      "chunk": "Chunk_ARCH_A_02_BNE_003",
+      "category": "ARCH",
+      "near_triangles": 22,
+      "far_triangles": 22
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_003",
+      "category": "ARCH",
+      "near_triangles": 28,
+      "far_triangles": 28
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_003",
+      "category": "ARCH",
+      "near_triangles": 28,
+      "far_triangles": 28
+    },
+    {
+      "chunk": "Chunk_ARCH_A_06_BNE_003",
+      "category": "ARCH",
+      "near_triangles": 22,
+      "far_triangles": 22
+    },
+    {
+      "chunk": "Chunk_ARCH_A_07_BNE_003",
+      "category": "ARCH",
+      "near_triangles": 196,
+      "far_triangles": 196
+    },
+    {
+      "chunk": "Chunk_ARCH_A_08_BNE_003",
+      "category": "ARCH",
+      "near_triangles": 196,
+      "far_triangles": 196
+    },
+    {
+      "chunk": "Chunk_ARCH_A_09_BNE_003",
+      "category": "ARCH",
+      "near_triangles": 22,
+      "far_triangles": 22
+    },
+    {
+      "chunk": "Chunk_ARCH_A_10_BNE_003",
+      "category": "ARCH",
+      "near_triangles": 22,
+      "far_triangles": 22
+    },
+    {
+      "chunk": "Chunk_ARCH_A_11_BNE_003",
+      "category": "ARCH",
+      "near_triangles": 28,
+      "far_triangles": 28
+    },
+    {
+      "chunk": "Chunk_ARCH_A_12_BNE_003",
+      "category": "ARCH",
+      "near_triangles": 28,
+      "far_triangles": 28
+    },
+    {
+      "chunk": "Chunk_ARCH_A_13_BNE_003",
+      "category": "ARCH",
+      "near_triangles": 22,
+      "far_triangles": 22
+    },
+    {
+      "chunk": "Chunk_ARCH_A_14_BNE_003",
+      "category": "ARCH",
+      "near_triangles": 22,
+      "far_triangles": 22
+    },
+    {
+      "chunk": "Chunk_ARCH_A_01_BNE_002",
+      "category": "ARCH",
+      "near_triangles": 56052,
+      "far_triangles": 56052
+    },
+    {
+      "chunk": "Chunk_ARCH_A_02_BNE_002",
+      "category": "ARCH",
+      "near_triangles": 41960,
+      "far_triangles": 41960
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_002",
+      "category": "ARCH",
+      "near_triangles": 54018,
+      "far_triangles": 54018
+    },
+    {
+      "chunk": "Chunk_ARCH_A_05_BNE_002",
+      "category": "ARCH",
+      "near_triangles": 51401,
+      "far_triangles": 51401
+    },
+    {
+      "chunk": "Chunk_ARCH_A_06_BNE_002",
+      "category": "ARCH",
+      "near_triangles": 46299,
+      "far_triangles": 46299
+    },
+    {
+      "chunk": "Chunk_ARCH_A_07_BNE_002",
+      "category": "ARCH",
+      "near_triangles": 54738,
+      "far_triangles": 54738
+    },
+    {
+      "chunk": "Chunk_ARCH_A_09_BNE_002",
+      "category": "ARCH",
+      "near_triangles": 56048,
+      "far_triangles": 56048
+    },
+    {
+      "chunk": "Chunk_ARCH_A_10_BNE_002",
+      "category": "ARCH",
+      "near_triangles": 41964,
+      "far_triangles": 41964
+    },
+    {
+      "chunk": "Chunk_ARCH_A_11_BNE_002",
+      "category": "ARCH",
+      "near_triangles": 53996,
+      "far_triangles": 53996
+    },
+    {
+      "chunk": "Chunk_ARCH_A_13_BNE_002",
+      "category": "ARCH",
+      "near_triangles": 51405,
+      "far_triangles": 51405
+    },
+    {
+      "chunk": "Chunk_ARCH_A_14_BNE_002",
+      "category": "ARCH",
+      "near_triangles": 46303,
+      "far_triangles": 46303
+    },
+    {
+      "chunk": "Chunk_ARCH_A_15_BNE_002",
+      "category": "ARCH",
+      "near_triangles": 54742,
+      "far_triangles": 54742
+    },
+    {
+      "chunk": "Chunk_ARCH_A_01_BNE_004",
+      "category": "ARCH",
+      "near_triangles": 12,
+      "far_triangles": 12
+    },
+    {
+      "chunk": "Chunk_ARCH_A_02_BNE_004",
+      "category": "ARCH",
+      "near_triangles": 92,
+      "far_triangles": 92
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_004",
+      "category": "ARCH",
+      "near_triangles": 58,
+      "far_triangles": 58
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_004",
+      "category": "ARCH",
+      "near_triangles": 74,
+      "far_triangles": 74
+    },
+    {
+      "chunk": "Chunk_ARCH_A_05_BNE_004",
+      "category": "ARCH",
+      "near_triangles": 92,
+      "far_triangles": 92
+    },
+    {
+      "chunk": "Chunk_ARCH_A_06_BNE_004",
+      "category": "ARCH",
+      "near_triangles": 12,
+      "far_triangles": 12
+    },
+    {
+      "chunk": "Chunk_ARCH_A_00_BNE_005",
+      "category": "ARCH",
+      "near_triangles": 22,
+      "far_triangles": 22
+    },
+    {
+      "chunk": "Chunk_ARCH_A_01_BNE_005",
+      "category": "ARCH",
+      "near_triangles": 150,
+      "far_triangles": 150
+    },
+    {
+      "chunk": "Chunk_ARCH_A_02_BNE_005",
+      "category": "ARCH",
+      "near_triangles": 998,
+      "far_triangles": 998
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_005",
+      "category": "ARCH",
+      "near_triangles": 812,
+      "far_triangles": 812
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_005",
+      "category": "ARCH",
+      "near_triangles": 1147,
+      "far_triangles": 1147
+    },
+    {
+      "chunk": "Chunk_ARCH_A_05_BNE_005",
+      "category": "ARCH",
+      "near_triangles": 1005,
+      "far_triangles": 1005
+    },
+    {
+      "chunk": "Chunk_ARCH_A_06_BNE_005",
+      "category": "ARCH",
+      "near_triangles": 154,
+      "far_triangles": 154
+    },
+    {
+      "chunk": "Chunk_ARCH_A_07_BNE_005",
+      "category": "ARCH",
+      "near_triangles": 14,
+      "far_triangles": 14
+    },
+    {
+      "chunk": "Chunk_ARCH_A_08_BNE_005",
+      "category": "ARCH",
+      "near_triangles": 22,
+      "far_triangles": 22
+    },
+    {
+      "chunk": "Chunk_ARCH_A_09_BNE_005",
+      "category": "ARCH",
+      "near_triangles": 36,
+      "far_triangles": 36
+    },
+    {
+      "chunk": "Chunk_ARCH_A_10_BNE_005",
+      "category": "ARCH",
+      "near_triangles": 88,
+      "far_triangles": 88
+    },
+    {
+      "chunk": "Chunk_ARCH_A_11_BNE_005",
+      "category": "ARCH",
+      "near_triangles": 22,
+      "far_triangles": 22
+    },
+    {
+      "chunk": "Chunk_ARCH_A_12_BNE_005",
+      "category": "ARCH",
+      "near_triangles": 66,
+      "far_triangles": 66
+    },
+    {
+      "chunk": "Chunk_ARCH_A_13_BNE_005",
+      "category": "ARCH",
+      "near_triangles": 88,
+      "far_triangles": 88
+    },
+    {
+      "chunk": "Chunk_ARCH_A_14_BNE_005",
+      "category": "ARCH",
+      "near_triangles": 36,
+      "far_triangles": 36
+    },
+    {
+      "chunk": "Chunk_ARCH_A_15_BNE_005",
+      "category": "ARCH",
+      "near_triangles": 14,
+      "far_triangles": 14
+    },
+    {
+      "chunk": "Chunk_ARCH_A_00_BNE_007",
+      "category": "ARCH",
+      "near_triangles": 674,
+      "far_triangles": 674
+    },
+    {
+      "chunk": "Chunk_ARCH_A_01_BNE_007",
+      "category": "ARCH",
+      "near_triangles": 704,
+      "far_triangles": 704
+    },
+    {
+      "chunk": "Chunk_ARCH_A_02_BNE_007",
+      "category": "ARCH",
+      "near_triangles": 734,
+      "far_triangles": 734
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_007",
+      "category": "ARCH",
+      "near_triangles": 768,
+      "far_triangles": 768
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_007",
+      "category": "ARCH",
+      "near_triangles": 768,
+      "far_triangles": 768
+    },
+    {
+      "chunk": "Chunk_ARCH_A_05_BNE_007",
+      "category": "ARCH",
+      "near_triangles": 734,
+      "far_triangles": 734
+    },
+    {
+      "chunk": "Chunk_ARCH_A_06_BNE_007",
+      "category": "ARCH",
+      "near_triangles": 704,
+      "far_triangles": 704
+    },
+    {
+      "chunk": "Chunk_ARCH_A_07_BNE_007",
+      "category": "ARCH",
+      "near_triangles": 674,
+      "far_triangles": 674
+    },
+    {
+      "chunk": "Chunk_ARCH_A_08_BNE_007",
+      "category": "ARCH",
+      "near_triangles": 674,
+      "far_triangles": 674
+    },
+    {
+      "chunk": "Chunk_ARCH_A_09_BNE_007",
+      "category": "ARCH",
+      "near_triangles": 704,
+      "far_triangles": 704
+    },
+    {
+      "chunk": "Chunk_ARCH_A_10_BNE_007",
+      "category": "ARCH",
+      "near_triangles": 734,
+      "far_triangles": 734
+    },
+    {
+      "chunk": "Chunk_ARCH_A_11_BNE_007",
+      "category": "ARCH",
+      "near_triangles": 768,
+      "far_triangles": 768
+    },
+    {
+      "chunk": "Chunk_ARCH_A_12_BNE_007",
+      "category": "ARCH",
+      "near_triangles": 768,
+      "far_triangles": 768
+    },
+    {
+      "chunk": "Chunk_ARCH_A_13_BNE_007",
+      "category": "ARCH",
+      "near_triangles": 734,
+      "far_triangles": 734
+    },
+    {
+      "chunk": "Chunk_ARCH_A_14_BNE_007",
+      "category": "ARCH",
+      "near_triangles": 704,
+      "far_triangles": 704
+    },
+    {
+      "chunk": "Chunk_ARCH_A_15_BNE_007",
+      "category": "ARCH",
+      "near_triangles": 674,
+      "far_triangles": 674
+    },
+    {
+      "chunk": "Chunk_ARCH_A_06_BNE_008",
+      "category": "ARCH",
+      "near_triangles": 4,
+      "far_triangles": 4
+    },
+    {
+      "chunk": "Chunk_ARCH_A_05_BNE_008",
+      "category": "ARCH",
+      "near_triangles": 76,
+      "far_triangles": 76
+    },
+    {
+      "chunk": "Chunk_ARCH_A_06_BNE_009",
+      "category": "ARCH",
+      "near_triangles": 452,
+      "far_triangles": 452
+    },
+    {
+      "chunk": "Chunk_ARCH_A_05_BNE_009",
+      "category": "ARCH",
+      "near_triangles": 6566,
+      "far_triangles": 6566
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_009",
+      "category": "ARCH",
+      "near_triangles": 6388,
+      "far_triangles": 6388
+    },
+    {
+      "chunk": "Chunk_ARCH_A_02_BNE_008",
+      "category": "ARCH",
+      "near_triangles": 76,
+      "far_triangles": 76
+    },
+    {
+      "chunk": "Chunk_ARCH_A_01_BNE_008",
+      "category": "ARCH",
+      "near_triangles": 4,
+      "far_triangles": 4
+    },
+    {
+      "chunk": "Chunk_ARCH_A_02_BNE_009",
+      "category": "ARCH",
+      "near_triangles": 6566,
+      "far_triangles": 6566
+    },
+    {
+      "chunk": "Chunk_ARCH_A_01_BNE_009",
+      "category": "ARCH",
+      "near_triangles": 452,
+      "far_triangles": 452
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_009",
+      "category": "ARCH",
+      "near_triangles": 6202,
+      "far_triangles": 6202
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_008",
+      "category": "ARCH",
+      "near_triangles": 40,
+      "far_triangles": 40
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_008",
+      "category": "ARCH",
+      "near_triangles": 40,
+      "far_triangles": 40
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_010",
+      "category": "ARCH",
+      "near_triangles": 2,
+      "far_triangles": 2
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_011",
+      "category": "ARCH",
+      "near_triangles": 1118,
+      "far_triangles": 1118
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_011",
+      "category": "ARCH",
+      "near_triangles": 866,
+      "far_triangles": 866
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_012",
+      "category": "ARCH",
+      "near_triangles": 36,
+      "far_triangles": 36
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_013",
+      "category": "ARCH",
+      "near_triangles": 384,
+      "far_triangles": 384
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_014",
+      "category": "ARCH",
+      "near_triangles": 484,
+      "far_triangles": 484
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_015",
+      "category": "ARCH",
+      "near_triangles": 12,
+      "far_triangles": 12
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_016",
+      "category": "ARCH",
+      "near_triangles": 404,
+      "far_triangles": 404
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_017",
+      "category": "ARCH",
+      "near_triangles": 36,
+      "far_triangles": 36
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_018",
+      "category": "ARCH",
+      "near_triangles": 44,
+      "far_triangles": 44
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_019",
+      "category": "ARCH",
+      "near_triangles": 20,
+      "far_triangles": 20
+    },
+    {
+      "chunk": "Chunk_LED_A_05_BNE_020",
+      "category": "LED",
+      "near_triangles": 2,
+      "far_triangles": 2
+    },
+    {
+      "chunk": "Chunk_LED_A_04_BNE_020",
+      "category": "LED",
+      "near_triangles": 38,
+      "far_triangles": 38
+    },
+    {
+      "chunk": "Chunk_LED_A_03_BNE_020",
+      "category": "LED",
+      "near_triangles": 38,
+      "far_triangles": 38
+    },
+    {
+      "chunk": "Chunk_LED_A_02_BNE_020",
+      "category": "LED",
+      "near_triangles": 2,
+      "far_triangles": 2
+    },
+    {
+      "chunk": "Chunk_LED_A_05_BNE_009",
+      "category": "LED",
+      "near_triangles": 238,
+      "far_triangles": 238
+    },
+    {
+      "chunk": "Chunk_LED_A_04_BNE_009",
+      "category": "LED",
+      "near_triangles": 114,
+      "far_triangles": 114
+    },
+    {
+      "chunk": "Chunk_LED_A_03_BNE_009",
+      "category": "LED",
+      "near_triangles": 114,
+      "far_triangles": 114
+    },
+    {
+      "chunk": "Chunk_LED_A_02_BNE_009",
+      "category": "LED",
+      "near_triangles": 238,
+      "far_triangles": 238
+    },
+    {
+      "chunk": "Chunk_LED_A_06_BNE_021",
+      "category": "LED",
+      "near_triangles": 4,
+      "far_triangles": 4
+    },
+    {
+      "chunk": "Chunk_LED_A_05_BNE_021",
+      "category": "LED",
+      "near_triangles": 76,
+      "far_triangles": 76
+    },
+    {
+      "chunk": "Chunk_LED_A_06_BNE_009",
+      "category": "LED",
+      "near_triangles": 14,
+      "far_triangles": 14
+    },
+    {
+      "chunk": "Chunk_LED_A_02_BNE_022",
+      "category": "LED",
+      "near_triangles": 76,
+      "far_triangles": 76
+    },
+    {
+      "chunk": "Chunk_LED_A_01_BNE_022",
+      "category": "LED",
+      "near_triangles": 4,
+      "far_triangles": 4
+    },
+    {
+      "chunk": "Chunk_LED_A_01_BNE_009",
+      "category": "LED",
+      "near_triangles": 14,
+      "far_triangles": 14
+    },
+    {
+      "chunk": "Chunk_ARCH_A_06_BNE_023",
+      "category": "ARCH",
+      "near_triangles": 144,
+      "far_triangles": 144
+    },
+    {
+      "chunk": "Chunk_ARCH_A_05_BNE_023",
+      "category": "ARCH",
+      "near_triangles": 144,
+      "far_triangles": 144
+    },
+    {
+      "chunk": "Chunk_ARCH_A_02_BNE_023",
+      "category": "ARCH",
+      "near_triangles": 144,
+      "far_triangles": 144
+    },
+    {
+      "chunk": "Chunk_ARCH_A_01_BNE_023",
+      "category": "ARCH",
+      "near_triangles": 144,
+      "far_triangles": 144
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_024",
+      "category": "ARCH",
+      "near_triangles": 448,
+      "far_triangles": 448
+    },
+    {
+      "chunk": "Chunk_ARCH_A_05_BNE_024",
+      "category": "ARCH",
+      "near_triangles": 1080,
+      "far_triangles": 1080
+    },
+    {
+      "chunk": "Chunk_ARCH_A_06_BNE_024",
+      "category": "ARCH",
+      "near_triangles": 188,
+      "far_triangles": 188
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_024",
+      "category": "ARCH",
+      "near_triangles": 448,
+      "far_triangles": 448
+    },
+    {
+      "chunk": "Chunk_ARCH_A_02_BNE_024",
+      "category": "ARCH",
+      "near_triangles": 1080,
+      "far_triangles": 1080
+    },
+    {
+      "chunk": "Chunk_ARCH_A_01_BNE_024",
+      "category": "ARCH",
+      "near_triangles": 188,
+      "far_triangles": 188
+    },
+    {
+      "chunk": "Chunk_ARCH_A_12_BNE_009",
+      "category": "ARCH",
+      "near_triangles": 44,
+      "far_triangles": 44
+    },
+    {
+      "chunk": "Chunk_ARCH_A_11_BNE_009",
+      "category": "ARCH",
+      "near_triangles": 26,
+      "far_triangles": 26
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_026",
+      "category": "ARCH",
+      "near_triangles": 118,
+      "far_triangles": 118
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_026",
+      "category": "ARCH",
+      "near_triangles": 130,
+      "far_triangles": 130
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_027",
+      "category": "ARCH",
+      "near_triangles": 1112,
+      "far_triangles": 1112
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_027",
+      "category": "ARCH",
+      "near_triangles": 1120,
+      "far_triangles": 1120
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_028",
+      "category": "ARCH",
+      "near_triangles": 696,
+      "far_triangles": 696
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_028",
+      "category": "ARCH",
+      "near_triangles": 436,
+      "far_triangles": 436
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_023",
+      "category": "ARCH",
+      "near_triangles": 24,
+      "far_triangles": 24
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_029",
+      "category": "ARCH",
+      "near_triangles": 88,
+      "far_triangles": 88
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_030",
+      "category": "ARCH",
+      "near_triangles": 3520,
+      "far_triangles": 3520
+    },
+    {
+      "chunk": "Chunk_ARCH_A_00_BNE_031",
+      "category": "ARCH",
+      "near_triangles": 1056,
+      "far_triangles": 1056
+    },
+    {
+      "chunk": "Chunk_ARCH_A_01_BNE_031",
+      "category": "ARCH",
+      "near_triangles": 1056,
+      "far_triangles": 1056
+    },
+    {
+      "chunk": "Chunk_ARCH_A_02_BNE_031",
+      "category": "ARCH",
+      "near_triangles": 1056,
+      "far_triangles": 1056
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_031",
+      "category": "ARCH",
+      "near_triangles": 968,
+      "far_triangles": 968
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_031",
+      "category": "ARCH",
+      "near_triangles": 1056,
+      "far_triangles": 1056
+    },
+    {
+      "chunk": "Chunk_ARCH_A_05_BNE_031",
+      "category": "ARCH",
+      "near_triangles": 1056,
+      "far_triangles": 1056
+    },
+    {
+      "chunk": "Chunk_ARCH_A_06_BNE_031",
+      "category": "ARCH",
+      "near_triangles": 1056,
+      "far_triangles": 1056
+    },
+    {
+      "chunk": "Chunk_ARCH_A_07_BNE_031",
+      "category": "ARCH",
+      "near_triangles": 960,
+      "far_triangles": 960
+    },
+    {
+      "chunk": "Chunk_ARCH_A_08_BNE_031",
+      "category": "ARCH",
+      "near_triangles": 1056,
+      "far_triangles": 1056
+    },
+    {
+      "chunk": "Chunk_ARCH_A_09_BNE_031",
+      "category": "ARCH",
+      "near_triangles": 1056,
+      "far_triangles": 1056
+    },
+    {
+      "chunk": "Chunk_ARCH_A_10_BNE_031",
+      "category": "ARCH",
+      "near_triangles": 1056,
+      "far_triangles": 1056
+    },
+    {
+      "chunk": "Chunk_ARCH_A_11_BNE_031",
+      "category": "ARCH",
+      "near_triangles": 968,
+      "far_triangles": 968
+    },
+    {
+      "chunk": "Chunk_ARCH_A_12_BNE_031",
+      "category": "ARCH",
+      "near_triangles": 1056,
+      "far_triangles": 1056
+    },
+    {
+      "chunk": "Chunk_ARCH_A_13_BNE_031",
+      "category": "ARCH",
+      "near_triangles": 1056,
+      "far_triangles": 1056
+    },
+    {
+      "chunk": "Chunk_ARCH_A_14_BNE_031",
+      "category": "ARCH",
+      "near_triangles": 1056,
+      "far_triangles": 1056
+    },
+    {
+      "chunk": "Chunk_ARCH_A_15_BNE_031",
+      "category": "ARCH",
+      "near_triangles": 960,
+      "far_triangles": 960
+    },
+    {
+      "chunk": "Chunk_ARCH_A_00_BNE_032",
+      "category": "ARCH",
+      "near_triangles": 21098,
+      "far_triangles": 21098
+    },
+    {
+      "chunk": "Chunk_ARCH_A_01_BNE_032",
+      "category": "ARCH",
+      "near_triangles": 21592,
+      "far_triangles": 21592
+    },
+    {
+      "chunk": "Chunk_ARCH_A_02_BNE_032",
+      "category": "ARCH",
+      "near_triangles": 21256,
+      "far_triangles": 21256
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_032",
+      "category": "ARCH",
+      "near_triangles": 20432,
+      "far_triangles": 20432
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_032",
+      "category": "ARCH",
+      "near_triangles": 20618,
+      "far_triangles": 20618
+    },
+    {
+      "chunk": "Chunk_ARCH_A_05_BNE_032",
+      "category": "ARCH",
+      "near_triangles": 20903,
+      "far_triangles": 20903
+    },
+    {
+      "chunk": "Chunk_ARCH_A_06_BNE_032",
+      "category": "ARCH",
+      "near_triangles": 21203,
+      "far_triangles": 21203
+    },
+    {
+      "chunk": "Chunk_ARCH_A_07_BNE_032",
+      "category": "ARCH",
+      "near_triangles": 21122,
+      "far_triangles": 21122
+    },
+    {
+      "chunk": "Chunk_ARCH_A_08_BNE_032",
+      "category": "ARCH",
+      "near_triangles": 21458,
+      "far_triangles": 21458
+    },
+    {
+      "chunk": "Chunk_ARCH_A_09_BNE_032",
+      "category": "ARCH",
+      "near_triangles": 21208,
+      "far_triangles": 21208
+    },
+    {
+      "chunk": "Chunk_ARCH_A_10_BNE_032",
+      "category": "ARCH",
+      "near_triangles": 20880,
+      "far_triangles": 20880
+    },
+    {
+      "chunk": "Chunk_ARCH_A_11_BNE_032",
+      "category": "ARCH",
+      "near_triangles": 20494,
+      "far_triangles": 20494
+    },
+    {
+      "chunk": "Chunk_ARCH_A_12_BNE_032",
+      "category": "ARCH",
+      "near_triangles": 20468,
+      "far_triangles": 20468
+    },
+    {
+      "chunk": "Chunk_ARCH_A_13_BNE_032",
+      "category": "ARCH",
+      "near_triangles": 20899,
+      "far_triangles": 20899
+    },
+    {
+      "chunk": "Chunk_ARCH_A_14_BNE_032",
+      "category": "ARCH",
+      "near_triangles": 21187,
+      "far_triangles": 21187
+    },
+    {
+      "chunk": "Chunk_ARCH_A_15_BNE_032",
+      "category": "ARCH",
+      "near_triangles": 21122,
+      "far_triangles": 21122
+    },
+    {
+      "chunk": "Chunk_ARCH_A_00_BNE_033",
+      "category": "ARCH",
+      "near_triangles": 21394,
+      "far_triangles": 21394
+    },
+    {
+      "chunk": "Chunk_ARCH_A_00_BNE_034",
+      "category": "ARCH",
+      "near_triangles": 9956,
+      "far_triangles": 9956
+    },
+    {
+      "chunk": "Chunk_ARCH_A_01_BNE_033",
+      "category": "ARCH",
+      "near_triangles": 24332,
+      "far_triangles": 24332
+    },
+    {
+      "chunk": "Chunk_ARCH_A_01_BNE_034",
+      "category": "ARCH",
+      "near_triangles": 9932,
+      "far_triangles": 9932
+    },
+    {
+      "chunk": "Chunk_ARCH_A_02_BNE_033",
+      "category": "ARCH",
+      "near_triangles": 19382,
+      "far_triangles": 19382
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_033",
+      "category": "ARCH",
+      "near_triangles": 21950,
+      "far_triangles": 21950
+    },
+    {
+      "chunk": "Chunk_ARCH_A_02_BNE_034",
+      "category": "ARCH",
+      "near_triangles": 6080,
+      "far_triangles": 6080
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_034",
+      "category": "ARCH",
+      "near_triangles": 3850,
+      "far_triangles": 3850
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_033",
+      "category": "ARCH",
+      "near_triangles": 21352,
+      "far_triangles": 21352
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_034",
+      "category": "ARCH",
+      "near_triangles": 9948,
+      "far_triangles": 9948
+    },
+    {
+      "chunk": "Chunk_ARCH_A_05_BNE_033",
+      "category": "ARCH",
+      "near_triangles": 23454,
+      "far_triangles": 23454
+    },
+    {
+      "chunk": "Chunk_ARCH_A_05_BNE_034",
+      "category": "ARCH",
+      "near_triangles": 9976,
+      "far_triangles": 9976
+    },
+    {
+      "chunk": "Chunk_ARCH_A_06_BNE_033",
+      "category": "ARCH",
+      "near_triangles": 20802,
+      "far_triangles": 20802
+    },
+    {
+      "chunk": "Chunk_ARCH_A_07_BNE_033",
+      "category": "ARCH",
+      "near_triangles": 21758,
+      "far_triangles": 21758
+    },
+    {
+      "chunk": "Chunk_ARCH_A_06_BNE_034",
+      "category": "ARCH",
+      "near_triangles": 5596,
+      "far_triangles": 5596
+    },
+    {
+      "chunk": "Chunk_ARCH_A_07_BNE_034",
+      "category": "ARCH",
+      "near_triangles": 4334,
+      "far_triangles": 4334
+    },
+    {
+      "chunk": "Chunk_ARCH_A_08_BNE_033",
+      "category": "ARCH",
+      "near_triangles": 21426,
+      "far_triangles": 21426
+    },
+    {
+      "chunk": "Chunk_ARCH_A_08_BNE_034",
+      "category": "ARCH",
+      "near_triangles": 9956,
+      "far_triangles": 9956
+    },
+    {
+      "chunk": "Chunk_ARCH_A_09_BNE_033",
+      "category": "ARCH",
+      "near_triangles": 24368,
+      "far_triangles": 24368
+    },
+    {
+      "chunk": "Chunk_ARCH_A_09_BNE_034",
+      "category": "ARCH",
+      "near_triangles": 9962,
+      "far_triangles": 9962
+    },
+    {
+      "chunk": "Chunk_ARCH_A_10_BNE_033",
+      "category": "ARCH",
+      "near_triangles": 19388,
+      "far_triangles": 19388
+    },
+    {
+      "chunk": "Chunk_ARCH_A_11_BNE_033",
+      "category": "ARCH",
+      "near_triangles": 21770,
+      "far_triangles": 21770
+    },
+    {
+      "chunk": "Chunk_ARCH_A_10_BNE_034",
+      "category": "ARCH",
+      "near_triangles": 6078,
+      "far_triangles": 6078
+    },
+    {
+      "chunk": "Chunk_ARCH_A_11_BNE_034",
+      "category": "ARCH",
+      "near_triangles": 3858,
+      "far_triangles": 3858
+    },
+    {
+      "chunk": "Chunk_ARCH_A_12_BNE_033",
+      "category": "ARCH",
+      "near_triangles": 21196,
+      "far_triangles": 21196
+    },
+    {
+      "chunk": "Chunk_ARCH_A_12_BNE_034",
+      "category": "ARCH",
+      "near_triangles": 9944,
+      "far_triangles": 9944
+    },
+    {
+      "chunk": "Chunk_ARCH_A_13_BNE_033",
+      "category": "ARCH",
+      "near_triangles": 23460,
+      "far_triangles": 23460
+    },
+    {
+      "chunk": "Chunk_ARCH_A_13_BNE_034",
+      "category": "ARCH",
+      "near_triangles": 9928,
+      "far_triangles": 9928
+    },
+    {
+      "chunk": "Chunk_ARCH_A_14_BNE_033",
+      "category": "ARCH",
+      "near_triangles": 20838,
+      "far_triangles": 20838
+    },
+    {
+      "chunk": "Chunk_ARCH_A_15_BNE_033",
+      "category": "ARCH",
+      "near_triangles": 21790,
+      "far_triangles": 21790
+    },
+    {
+      "chunk": "Chunk_ARCH_A_14_BNE_034",
+      "category": "ARCH",
+      "near_triangles": 5596,
+      "far_triangles": 5596
+    },
+    {
+      "chunk": "Chunk_ARCH_A_15_BNE_034",
+      "category": "ARCH",
+      "near_triangles": 4334,
+      "far_triangles": 4334
+    },
+    {
+      "chunk": "Chunk_ARCH_A_00_BNE_035",
+      "category": "ARCH",
+      "near_triangles": 511,
+      "far_triangles": 511
+    },
+    {
+      "chunk": "Chunk_ARCH_A_15_BNE_035",
+      "category": "ARCH",
+      "near_triangles": 855,
+      "far_triangles": 855
+    },
+    {
+      "chunk": "Chunk_ARCH_A_01_BNE_035",
+      "category": "ARCH",
+      "near_triangles": 1350,
+      "far_triangles": 1350
+    },
+    {
+      "chunk": "Chunk_ARCH_A_02_BNE_035",
+      "category": "ARCH",
+      "near_triangles": 934,
+      "far_triangles": 934
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_035",
+      "category": "ARCH",
+      "near_triangles": 278,
+      "far_triangles": 278
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_035",
+      "category": "ARCH",
+      "near_triangles": 478,
+      "far_triangles": 478
+    },
+    {
+      "chunk": "Chunk_ARCH_A_05_BNE_035",
+      "category": "ARCH",
+      "near_triangles": 720,
+      "far_triangles": 720
+    },
+    {
+      "chunk": "Chunk_ARCH_A_06_BNE_035",
+      "category": "ARCH",
+      "near_triangles": 980,
+      "far_triangles": 980
+    },
+    {
+      "chunk": "Chunk_ARCH_A_08_BNE_035",
+      "category": "ARCH",
+      "near_triangles": 737,
+      "far_triangles": 737
+    },
+    {
+      "chunk": "Chunk_ARCH_A_07_BNE_035",
+      "category": "ARCH",
+      "near_triangles": 773,
+      "far_triangles": 773
+    },
+    {
+      "chunk": "Chunk_ARCH_A_09_BNE_035",
+      "category": "ARCH",
+      "near_triangles": 1020,
+      "far_triangles": 1020
+    },
+    {
+      "chunk": "Chunk_ARCH_A_10_BNE_035",
+      "category": "ARCH",
+      "near_triangles": 645,
+      "far_triangles": 645
+    },
+    {
+      "chunk": "Chunk_ARCH_A_12_BNE_035",
+      "category": "ARCH",
+      "near_triangles": 270,
+      "far_triangles": 270
+    },
+    {
+      "chunk": "Chunk_ARCH_A_11_BNE_035",
+      "category": "ARCH",
+      "near_triangles": 454,
+      "far_triangles": 454
+    },
+    {
+      "chunk": "Chunk_ARCH_A_13_BNE_035",
+      "category": "ARCH",
+      "near_triangles": 731,
+      "far_triangles": 731
+    },
+    {
+      "chunk": "Chunk_ARCH_A_14_BNE_035",
+      "category": "ARCH",
+      "near_triangles": 950,
+      "far_triangles": 950
+    },
+    {
+      "chunk": "Chunk_ARCH_A_08_BNE_036",
+      "category": "ARCH",
+      "near_triangles": 496,
+      "far_triangles": 496
+    },
+    {
+      "chunk": "Chunk_ARCH_A_09_BNE_036",
+      "category": "ARCH",
+      "near_triangles": 74,
+      "far_triangles": 74
+    },
+    {
+      "chunk": "Chunk_ARCH_A_06_BNE_036",
+      "category": "ARCH",
+      "near_triangles": 74,
+      "far_triangles": 74
+    },
+    {
+      "chunk": "Chunk_ARCH_A_10_BNE_036",
+      "category": "ARCH",
+      "near_triangles": 62,
+      "far_triangles": 62
+    },
+    {
+      "chunk": "Chunk_ARCH_A_05_BNE_036",
+      "category": "ARCH",
+      "near_triangles": 62,
+      "far_triangles": 62
+    },
+    {
+      "chunk": "Chunk_ARCH_A_11_BNE_036",
+      "category": "ARCH",
+      "near_triangles": 42,
+      "far_triangles": 42
+    },
+    {
+      "chunk": "Chunk_ARCH_A_04_BNE_036",
+      "category": "ARCH",
+      "near_triangles": 526,
+      "far_triangles": 526
+    },
+    {
+      "chunk": "Chunk_ARCH_A_00_BNE_036",
+      "category": "ARCH",
+      "near_triangles": 504,
+      "far_triangles": 504
+    },
+    {
+      "chunk": "Chunk_ARCH_A_12_BNE_036",
+      "category": "ARCH",
+      "near_triangles": 526,
+      "far_triangles": 526
+    },
+    {
+      "chunk": "Chunk_ARCH_A_03_BNE_036",
+      "category": "ARCH",
+      "near_triangles": 42,
+      "far_triangles": 42
+    },
+    {
+      "chunk": "Chunk_ARCH_A_13_BNE_036",
+      "category": "ARCH",
+      "near_triangles": 62,
+      "far_triangles": 62
+    },
+    {
+      "chunk": "Chunk_ARCH_A_02_BNE_036",
+      "category": "ARCH",
+      "near_triangles": 62,
+      "far_triangles": 62
+    },
+    {
+      "chunk": "Chunk_ARCH_A_14_BNE_036",
+      "category": "ARCH",
+      "near_triangles": 74,
+      "far_triangles": 74
+    },
+    {
+      "chunk": "Chunk_ARCH_A_01_BNE_036",
+      "category": "ARCH",
+      "near_triangles": 74,
+      "far_triangles": 74
+    },
+    {
+      "chunk": "Chunk_ARCH_A_15_BNE_036",
+      "category": "ARCH",
+      "near_triangles": 52,
+      "far_triangles": 52
+    },
+    {
+      "chunk": "Chunk_ARCH_A_07_BNE_036",
+      "category": "ARCH",
+      "near_triangles": 52,
+      "far_triangles": 52
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_00",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_00",
+      "category": "CROWD",
+      "near_triangles": 17020,
+      "far_triangles": 10212
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_00",
+      "category": "PHONES",
+      "near_triangles": 816,
+      "far_triangles": 816
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_01",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_01",
+      "category": "CROWD",
+      "near_triangles": 16520,
+      "far_triangles": 9912
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_01",
+      "category": "PHONES",
+      "near_triangles": 856,
+      "far_triangles": 856
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_02",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_02",
+      "category": "CROWD",
+      "near_triangles": 4080,
+      "far_triangles": 2448
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_02",
+      "category": "PHONES",
+      "near_triangles": 200,
+      "far_triangles": 200
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_03",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_04",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_05",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_06",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_07",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_07",
+      "category": "CROWD",
+      "near_triangles": 2140,
+      "far_triangles": 1284
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_07",
+      "category": "PHONES",
+      "near_triangles": 64,
+      "far_triangles": 64
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_08",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_08",
+      "category": "CROWD",
+      "near_triangles": 15780,
+      "far_triangles": 9468
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_08",
+      "category": "PHONES",
+      "near_triangles": 816,
+      "far_triangles": 816
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_09",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_09",
+      "category": "CROWD",
+      "near_triangles": 16860,
+      "far_triangles": 10116
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_09",
+      "category": "PHONES",
+      "near_triangles": 840,
+      "far_triangles": 840
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_10",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_10",
+      "category": "CROWD",
+      "near_triangles": 16980,
+      "far_triangles": 10188
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_10",
+      "category": "PHONES",
+      "near_triangles": 816,
+      "far_triangles": 816
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_11",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_11",
+      "category": "CROWD",
+      "near_triangles": 16760,
+      "far_triangles": 10056
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_11",
+      "category": "PHONES",
+      "near_triangles": 872,
+      "far_triangles": 872
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_12",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_12",
+      "category": "CROWD",
+      "near_triangles": 16880,
+      "far_triangles": 10128
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_12",
+      "category": "PHONES",
+      "near_triangles": 824,
+      "far_triangles": 824
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_13",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_13",
+      "category": "CROWD",
+      "near_triangles": 16800,
+      "far_triangles": 10080
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_13",
+      "category": "PHONES",
+      "near_triangles": 992,
+      "far_triangles": 992
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_14",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_14",
+      "category": "CROWD",
+      "near_triangles": 16960,
+      "far_triangles": 10176
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_14",
+      "category": "PHONES",
+      "near_triangles": 816,
+      "far_triangles": 816
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_15",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_15",
+      "category": "CROWD",
+      "near_triangles": 16880,
+      "far_triangles": 10128
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_15",
+      "category": "PHONES",
+      "near_triangles": 840,
+      "far_triangles": 840
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_16",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_16",
+      "category": "CROWD",
+      "near_triangles": 16880,
+      "far_triangles": 10128
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_16",
+      "category": "PHONES",
+      "near_triangles": 832,
+      "far_triangles": 832
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_17",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_17",
+      "category": "CROWD",
+      "near_triangles": 16920,
+      "far_triangles": 10152
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_17",
+      "category": "PHONES",
+      "near_triangles": 744,
+      "far_triangles": 744
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_18",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_18",
+      "category": "CROWD",
+      "near_triangles": 17020,
+      "far_triangles": 10212
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_18",
+      "category": "PHONES",
+      "near_triangles": 840,
+      "far_triangles": 840
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_19",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_19",
+      "category": "CROWD",
+      "near_triangles": 17040,
+      "far_triangles": 10224
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_19",
+      "category": "PHONES",
+      "near_triangles": 936,
+      "far_triangles": 936
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_20",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_20",
+      "category": "CROWD",
+      "near_triangles": 17140,
+      "far_triangles": 10284
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_20",
+      "category": "PHONES",
+      "near_triangles": 864,
+      "far_triangles": 864
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_21",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_21",
+      "category": "CROWD",
+      "near_triangles": 16780,
+      "far_triangles": 10068
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_21",
+      "category": "PHONES",
+      "near_triangles": 784,
+      "far_triangles": 784
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_22",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_22",
+      "category": "CROWD",
+      "near_triangles": 16940,
+      "far_triangles": 10164
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_22",
+      "category": "PHONES",
+      "near_triangles": 896,
+      "far_triangles": 896
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_0_23",
+      "category": "SEATS",
+      "near_triangles": 20904,
+      "far_triangles": 10452
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_0_23",
+      "category": "CROWD",
+      "near_triangles": 16880,
+      "far_triangles": 10128
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_0_23",
+      "category": "PHONES",
+      "near_triangles": 904,
+      "far_triangles": 904
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_00",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_00",
+      "category": "CROWD",
+      "near_triangles": 14660,
+      "far_triangles": 8796
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_00",
+      "category": "PHONES",
+      "near_triangles": 728,
+      "far_triangles": 728
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_01",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_01",
+      "category": "CROWD",
+      "near_triangles": 14640,
+      "far_triangles": 8784
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_01",
+      "category": "PHONES",
+      "near_triangles": 768,
+      "far_triangles": 768
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_02",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_02",
+      "category": "CROWD",
+      "near_triangles": 13720,
+      "far_triangles": 8232
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_02",
+      "category": "PHONES",
+      "near_triangles": 792,
+      "far_triangles": 792
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_03",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_04",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_05",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_06",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_07",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_07",
+      "category": "CROWD",
+      "near_triangles": 11460,
+      "far_triangles": 6876
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_07",
+      "category": "PHONES",
+      "near_triangles": 512,
+      "far_triangles": 512
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_08",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_08",
+      "category": "CROWD",
+      "near_triangles": 14560,
+      "far_triangles": 8736
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_08",
+      "category": "PHONES",
+      "near_triangles": 792,
+      "far_triangles": 792
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_09",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_09",
+      "category": "CROWD",
+      "near_triangles": 14600,
+      "far_triangles": 8760
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_09",
+      "category": "PHONES",
+      "near_triangles": 728,
+      "far_triangles": 728
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_10",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_10",
+      "category": "CROWD",
+      "near_triangles": 14580,
+      "far_triangles": 8748
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_10",
+      "category": "PHONES",
+      "near_triangles": 808,
+      "far_triangles": 808
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_11",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_11",
+      "category": "CROWD",
+      "near_triangles": 14700,
+      "far_triangles": 8820
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_11",
+      "category": "PHONES",
+      "near_triangles": 808,
+      "far_triangles": 808
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_12",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_12",
+      "category": "CROWD",
+      "near_triangles": 14760,
+      "far_triangles": 8856
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_12",
+      "category": "PHONES",
+      "near_triangles": 768,
+      "far_triangles": 768
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_13",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_13",
+      "category": "CROWD",
+      "near_triangles": 14760,
+      "far_triangles": 8856
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_13",
+      "category": "PHONES",
+      "near_triangles": 760,
+      "far_triangles": 760
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_14",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_14",
+      "category": "CROWD",
+      "near_triangles": 14780,
+      "far_triangles": 8868
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_14",
+      "category": "PHONES",
+      "near_triangles": 680,
+      "far_triangles": 680
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_15",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_15",
+      "category": "CROWD",
+      "near_triangles": 14860,
+      "far_triangles": 8916
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_15",
+      "category": "PHONES",
+      "near_triangles": 792,
+      "far_triangles": 792
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_16",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_16",
+      "category": "CROWD",
+      "near_triangles": 9980,
+      "far_triangles": 5988
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_16",
+      "category": "PHONES",
+      "near_triangles": 496,
+      "far_triangles": 496
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_17",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_17",
+      "category": "CROWD",
+      "near_triangles": 8320,
+      "far_triangles": 4992
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_17",
+      "category": "PHONES",
+      "near_triangles": 440,
+      "far_triangles": 440
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_18",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_18",
+      "category": "CROWD",
+      "near_triangles": 14660,
+      "far_triangles": 8796
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_18",
+      "category": "PHONES",
+      "near_triangles": 776,
+      "far_triangles": 776
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_19",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_19",
+      "category": "CROWD",
+      "near_triangles": 14540,
+      "far_triangles": 8724
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_19",
+      "category": "PHONES",
+      "near_triangles": 680,
+      "far_triangles": 680
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_20",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_20",
+      "category": "CROWD",
+      "near_triangles": 14680,
+      "far_triangles": 8808
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_20",
+      "category": "PHONES",
+      "near_triangles": 736,
+      "far_triangles": 736
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_21",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_21",
+      "category": "CROWD",
+      "near_triangles": 14620,
+      "far_triangles": 8772
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_21",
+      "category": "PHONES",
+      "near_triangles": 744,
+      "far_triangles": 744
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_22",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_22",
+      "category": "CROWD",
+      "near_triangles": 14640,
+      "far_triangles": 8784
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_22",
+      "category": "PHONES",
+      "near_triangles": 656,
+      "far_triangles": 656
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_1_23",
+      "category": "SEATS",
+      "near_triangles": 18168,
+      "far_triangles": 9084
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_1_23",
+      "category": "CROWD",
+      "near_triangles": 14760,
+      "far_triangles": 8856
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_1_23",
+      "category": "PHONES",
+      "near_triangles": 800,
+      "far_triangles": 800
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_00",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_00",
+      "category": "CROWD",
+      "near_triangles": 32820,
+      "far_triangles": 19692
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_00",
+      "category": "PHONES",
+      "near_triangles": 1648,
+      "far_triangles": 1648
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_01",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_01",
+      "category": "CROWD",
+      "near_triangles": 32800,
+      "far_triangles": 19680
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_01",
+      "category": "PHONES",
+      "near_triangles": 1880,
+      "far_triangles": 1880
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_02",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_02",
+      "category": "CROWD",
+      "near_triangles": 32820,
+      "far_triangles": 19692
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_02",
+      "category": "PHONES",
+      "near_triangles": 1640,
+      "far_triangles": 1640
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_03",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_03",
+      "category": "CROWD",
+      "near_triangles": 3660,
+      "far_triangles": 2196
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_03",
+      "category": "PHONES",
+      "near_triangles": 184,
+      "far_triangles": 184
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_04",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_05",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_06",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_06",
+      "category": "CROWD",
+      "near_triangles": 580,
+      "far_triangles": 348
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_06",
+      "category": "PHONES",
+      "near_triangles": 32,
+      "far_triangles": 32
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_07",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_07",
+      "category": "CROWD",
+      "near_triangles": 31820,
+      "far_triangles": 19092
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_07",
+      "category": "PHONES",
+      "near_triangles": 1688,
+      "far_triangles": 1688
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_08",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_08",
+      "category": "CROWD",
+      "near_triangles": 32600,
+      "far_triangles": 19560
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_08",
+      "category": "PHONES",
+      "near_triangles": 1760,
+      "far_triangles": 1760
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_09",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_09",
+      "category": "CROWD",
+      "near_triangles": 32760,
+      "far_triangles": 19656
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_09",
+      "category": "PHONES",
+      "near_triangles": 1592,
+      "far_triangles": 1592
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_10",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_10",
+      "category": "CROWD",
+      "near_triangles": 32840,
+      "far_triangles": 19704
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_10",
+      "category": "PHONES",
+      "near_triangles": 1840,
+      "far_triangles": 1840
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_11",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_11",
+      "category": "CROWD",
+      "near_triangles": 33060,
+      "far_triangles": 19836
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_11",
+      "category": "PHONES",
+      "near_triangles": 1632,
+      "far_triangles": 1632
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_12",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_12",
+      "category": "CROWD",
+      "near_triangles": 32520,
+      "far_triangles": 19512
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_12",
+      "category": "PHONES",
+      "near_triangles": 1648,
+      "far_triangles": 1648
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_13",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_13",
+      "category": "CROWD",
+      "near_triangles": 32860,
+      "far_triangles": 19716
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_13",
+      "category": "PHONES",
+      "near_triangles": 1688,
+      "far_triangles": 1688
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_14",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_14",
+      "category": "CROWD",
+      "near_triangles": 32580,
+      "far_triangles": 19548
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_14",
+      "category": "PHONES",
+      "near_triangles": 1632,
+      "far_triangles": 1632
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_15",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_15",
+      "category": "CROWD",
+      "near_triangles": 32900,
+      "far_triangles": 19740
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_15",
+      "category": "PHONES",
+      "near_triangles": 1848,
+      "far_triangles": 1848
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_16",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_16",
+      "category": "CROWD",
+      "near_triangles": 19200,
+      "far_triangles": 11520
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_16",
+      "category": "PHONES",
+      "near_triangles": 1016,
+      "far_triangles": 1016
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_17",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_17",
+      "category": "CROWD",
+      "near_triangles": 13180,
+      "far_triangles": 7908
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_17",
+      "category": "PHONES",
+      "near_triangles": 712,
+      "far_triangles": 712
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_18",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_18",
+      "category": "CROWD",
+      "near_triangles": 32860,
+      "far_triangles": 19716
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_18",
+      "category": "PHONES",
+      "near_triangles": 1800,
+      "far_triangles": 1800
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_19",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_19",
+      "category": "CROWD",
+      "near_triangles": 32780,
+      "far_triangles": 19668
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_19",
+      "category": "PHONES",
+      "near_triangles": 1704,
+      "far_triangles": 1704
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_20",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_20",
+      "category": "CROWD",
+      "near_triangles": 32640,
+      "far_triangles": 19584
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_20",
+      "category": "PHONES",
+      "near_triangles": 1816,
+      "far_triangles": 1816
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_21",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_21",
+      "category": "CROWD",
+      "near_triangles": 33140,
+      "far_triangles": 19884
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_21",
+      "category": "PHONES",
+      "near_triangles": 1808,
+      "far_triangles": 1808
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_22",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_22",
+      "category": "CROWD",
+      "near_triangles": 32720,
+      "far_triangles": 19632
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_22",
+      "category": "PHONES",
+      "near_triangles": 1856,
+      "far_triangles": 1856
+    },
+    {
+      "chunk": "Chunk_SEATS_V23_2_23",
+      "category": "SEATS",
+      "near_triangles": 40584,
+      "far_triangles": 20292
+    },
+    {
+      "chunk": "Chunk_CROWD_V23_2_23",
+      "category": "CROWD",
+      "near_triangles": 32760,
+      "far_triangles": 19656
+    },
+    {
+      "chunk": "Chunk_PHONES_V23_2_23",
+      "category": "PHONES",
+      "near_triangles": 1664,
+      "far_triangles": 1664
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_0_4_BNE_023",
+      "category": "CHAIRS",
+      "near_triangles": 5280,
+      "far_triangles": 1372
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_0_4_BNE_000",
+      "category": "CHAIRS",
+      "near_triangles": 10560,
+      "far_triangles": 2744
+    },
+    {
+      "chunk": "Chunk_CROWD_F_0_4_BNE_006",
+      "category": "CROWD",
+      "near_triangles": 3880,
+      "far_triangles": 1008
+    },
+    {
+      "chunk": "Chunk_PHONES_F_0_4_BNE_025",
+      "category": "PHONES",
+      "near_triangles": 568,
+      "far_triangles": 568
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_1_4_BNE_023",
+      "category": "CHAIRS",
+      "near_triangles": 17856,
+      "far_triangles": 4642
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_1_4_BNE_000",
+      "category": "CHAIRS",
+      "near_triangles": 35712,
+      "far_triangles": 9284
+    },
+    {
+      "chunk": "Chunk_CROWD_F_1_4_BNE_006",
+      "category": "CROWD",
+      "near_triangles": 31400,
+      "far_triangles": 8162
+    },
+    {
+      "chunk": "Chunk_PHONES_F_1_4_BNE_025",
+      "category": "PHONES",
+      "near_triangles": 1928,
+      "far_triangles": 1928
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_2_4_BNE_023",
+      "category": "CHAIRS",
+      "near_triangles": 18240,
+      "far_triangles": 4742
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_2_4_BNE_000",
+      "category": "CHAIRS",
+      "near_triangles": 36480,
+      "far_triangles": 9484
+    },
+    {
+      "chunk": "Chunk_CROWD_F_2_4_BNE_006",
+      "category": "CROWD",
+      "near_triangles": 49536,
+      "far_triangles": 12878
+    },
+    {
+      "chunk": "Chunk_PHONES_F_2_4_BNE_025",
+      "category": "PHONES",
+      "near_triangles": 1992,
+      "far_triangles": 1992
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_3_4_BNE_023",
+      "category": "CHAIRS",
+      "near_triangles": 17856,
+      "far_triangles": 4642
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_3_4_BNE_000",
+      "category": "CHAIRS",
+      "near_triangles": 35712,
+      "far_triangles": 9284
+    },
+    {
+      "chunk": "Chunk_CROWD_F_3_4_BNE_006",
+      "category": "CROWD",
+      "near_triangles": 31884,
+      "far_triangles": 8288
+    },
+    {
+      "chunk": "Chunk_PHONES_F_3_4_BNE_025",
+      "category": "PHONES",
+      "near_triangles": 2016,
+      "far_triangles": 2016
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_4_4_BNE_023",
+      "category": "CHAIRS",
+      "near_triangles": 5280,
+      "far_triangles": 1372
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_4_4_BNE_000",
+      "category": "CHAIRS",
+      "near_triangles": 10560,
+      "far_triangles": 2744
+    },
+    {
+      "chunk": "Chunk_CROWD_F_4_4_BNE_006",
+      "category": "CROWD",
+      "near_triangles": 3980,
+      "far_triangles": 1034
+    },
+    {
+      "chunk": "Chunk_PHONES_F_4_4_BNE_025",
+      "category": "PHONES",
+      "near_triangles": 640,
+      "far_triangles": 640
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_0_3_BNE_023",
+      "category": "CHAIRS",
+      "near_triangles": 5520,
+      "far_triangles": 1434
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_0_3_BNE_000",
+      "category": "CHAIRS",
+      "near_triangles": 11040,
+      "far_triangles": 2870
+    },
+    {
+      "chunk": "Chunk_CROWD_F_0_3_BNE_006",
+      "category": "CROWD",
+      "near_triangles": 4160,
+      "far_triangles": 1080
+    },
+    {
+      "chunk": "Chunk_PHONES_F_0_3_BNE_025",
+      "category": "PHONES",
+      "near_triangles": 672,
+      "far_triangles": 672
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_1_3_BNE_023",
+      "category": "CHAIRS",
+      "near_triangles": 18528,
+      "far_triangles": 4816
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_1_3_BNE_000",
+      "category": "CHAIRS",
+      "near_triangles": 37056,
+      "far_triangles": 9634
+    },
+    {
+      "chunk": "Chunk_CROWD_F_1_3_BNE_006",
+      "category": "CROWD",
+      "near_triangles": 17808,
+      "far_triangles": 4630
+    },
+    {
+      "chunk": "Chunk_PHONES_F_1_3_BNE_025",
+      "category": "PHONES",
+      "near_triangles": 2032,
+      "far_triangles": 2032
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_2_3_BNE_023",
+      "category": "CHAIRS",
+      "near_triangles": 16416,
+      "far_triangles": 4268
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_2_3_BNE_000",
+      "category": "CHAIRS",
+      "near_triangles": 32832,
+      "far_triangles": 8536
+    },
+    {
+      "chunk": "Chunk_CROWD_F_2_3_BNE_006",
+      "category": "CROWD",
+      "near_triangles": 21200,
+      "far_triangles": 5512
+    },
+    {
+      "chunk": "Chunk_PHONES_F_2_3_BNE_025",
+      "category": "PHONES",
+      "near_triangles": 1832,
+      "far_triangles": 1832
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_3_3_BNE_023",
+      "category": "CHAIRS",
+      "near_triangles": 18528,
+      "far_triangles": 4816
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_3_3_BNE_000",
+      "category": "CHAIRS",
+      "near_triangles": 37056,
+      "far_triangles": 9634
+    },
+    {
+      "chunk": "Chunk_CROWD_F_3_3_BNE_006",
+      "category": "CROWD",
+      "near_triangles": 18152,
+      "far_triangles": 4718
+    },
+    {
+      "chunk": "Chunk_PHONES_F_3_3_BNE_025",
+      "category": "PHONES",
+      "near_triangles": 2064,
+      "far_triangles": 2064
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_4_3_BNE_023",
+      "category": "CHAIRS",
+      "near_triangles": 5520,
+      "far_triangles": 1434
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_4_3_BNE_000",
+      "category": "CHAIRS",
+      "near_triangles": 11040,
+      "far_triangles": 2870
+    },
+    {
+      "chunk": "Chunk_CROWD_F_4_3_BNE_006",
+      "category": "CROWD",
+      "near_triangles": 4260,
+      "far_triangles": 1106
+    },
+    {
+      "chunk": "Chunk_PHONES_F_4_3_BNE_025",
+      "category": "PHONES",
+      "near_triangles": 568,
+      "far_triangles": 568
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_0_2_BNE_023",
+      "category": "CHAIRS",
+      "near_triangles": 6480,
+      "far_triangles": 1684
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_0_2_BNE_000",
+      "category": "CHAIRS",
+      "near_triangles": 12960,
+      "far_triangles": 3368
+    },
+    {
+      "chunk": "Chunk_CROWD_F_0_2_BNE_006",
+      "category": "CROWD",
+      "near_triangles": 4860,
+      "far_triangles": 1262
+    },
+    {
+      "chunk": "Chunk_PHONES_F_0_2_BNE_025",
+      "category": "PHONES",
+      "near_triangles": 680,
+      "far_triangles": 680
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_1_2_BNE_023",
+      "category": "CHAIRS",
+      "near_triangles": 20736,
+      "far_triangles": 5390
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_1_2_BNE_000",
+      "category": "CHAIRS",
+      "near_triangles": 41472,
+      "far_triangles": 10782
+    },
+    {
+      "chunk": "Chunk_CROWD_F_1_2_BNE_006",
+      "category": "CROWD",
+      "near_triangles": 15540,
+      "far_triangles": 4040
+    },
+    {
+      "chunk": "Chunk_PHONES_F_1_2_BNE_025",
+      "category": "PHONES",
+      "near_triangles": 2200,
+      "far_triangles": 2200
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_3_2_BNE_023",
+      "category": "CHAIRS",
+      "near_triangles": 20736,
+      "far_triangles": 5390
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_3_2_BNE_000",
+      "category": "CHAIRS",
+      "near_triangles": 41472,
+      "far_triangles": 10782
+    },
+    {
+      "chunk": "Chunk_CROWD_F_3_2_BNE_006",
+      "category": "CROWD",
+      "near_triangles": 15580,
+      "far_triangles": 4050
+    },
+    {
+      "chunk": "Chunk_PHONES_F_3_2_BNE_025",
+      "category": "PHONES",
+      "near_triangles": 1928,
+      "far_triangles": 1928
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_4_2_BNE_023",
+      "category": "CHAIRS",
+      "near_triangles": 6480,
+      "far_triangles": 1684
+    },
+    {
+      "chunk": "Chunk_CHAIRS_F_4_2_BNE_000",
+      "category": "CHAIRS",
+      "near_triangles": 12960,
+      "far_triangles": 3368
+    },
+    {
+      "chunk": "Chunk_CROWD_F_4_2_BNE_006",
+      "category": "CROWD",
+      "near_triangles": 4780,
+      "far_triangles": 1242
+    },
+    {
+      "chunk": "Chunk_PHONES_F_4_2_BNE_025",
+      "category": "PHONES",
+      "near_triangles": 592,
+      "far_triangles": 592
+    },
+    {
+      "chunk": "Chunk_ARCH_A_13_BNE_009",
+      "category": "ARCH",
+      "near_triangles": 26,
+      "far_triangles": 26
+    },
+    {
+      "chunk": "Chunk_ARCH_A_10_BNE_009",
+      "category": "ARCH",
+      "near_triangles": 26,
+      "far_triangles": 26
+    },
+    {
+      "chunk": "Chunk_ARCH_A_10_BNE_025",
+      "category": "ARCH",
+      "near_triangles": 40,
+      "far_triangles": 40
+    },
+    {
+      "chunk": "Chunk_ARCH_A_11_BNE_025",
+      "category": "ARCH",
+      "near_triangles": 56,
+      "far_triangles": 56
+    },
+    {
+      "chunk": "Chunk_ARCH_A_12_BNE_025",
+      "category": "ARCH",
+      "near_triangles": 56,
+      "far_triangles": 56
+    },
+    {
+      "chunk": "Chunk_ARCH_A_13_BNE_025",
+      "category": "ARCH",
+      "near_triangles": 40,
+      "far_triangles": 40
+    },
+    {
+      "chunk": "Chunk_ARCH_A_10_BNE_004",
+      "category": "ARCH",
+      "near_triangles": 24,
+      "far_triangles": 24
+    },
+    {
+      "chunk": "Chunk_ARCH_A_11_BNE_004",
+      "category": "ARCH",
+      "near_triangles": 26,
+      "far_triangles": 26
+    },
+    {
+      "chunk": "Chunk_ARCH_A_12_BNE_004",
+      "category": "ARCH",
+      "near_triangles": 34,
+      "far_triangles": 34
+    },
+    {
+      "chunk": "Chunk_ARCH_A_13_BNE_004",
+      "category": "ARCH",
+      "near_triangles": 24,
+      "far_triangles": 24
+    }
+  ]
+}

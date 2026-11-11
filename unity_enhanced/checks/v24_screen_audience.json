@@ -1,0 +1,74 @@
+{
+  "screen_bounds": [
+    -15.800000190734863,
+    15.800000190734863,
+    -126.86000061035156,
+    21.899999618530273,
+    35.900001525878906
+  ],
+  "removed_people": 2215,
+  "remaining_bowl_audience": 60672,
+  "empty_seats_preserved": true,
+  "meshes": [
+    {
+      "mesh": "V23_DETAIL_Chunk_CROWD_V23_1_16",
+      "removed_people_or_lights": 227,
+      "remaining_in_shadow": 0
+    },
+    {
+      "mesh": "V23_DETAIL_Chunk_PHONES_V23_1_16",
+      "removed_people_or_lights": 28,
+      "remaining_in_shadow": 0
+    },
+    {
+      "mesh": "V23_DETAIL_Chunk_CROWD_V23_1_17",
+      "removed_people_or_lights": 320,
+      "remaining_in_shadow": 0
+    },
+    {
+      "mesh": "V23_DETAIL_Chunk_PHONES_V23_1_17",
+      "removed_people_or_lights": 48,
+      "remaining_in_shadow": 0
+    },
+    {
+      "mesh": "V23_DETAIL_Chunk_CROWD_V23_2_16",
+      "removed_people_or_lights": 679,
+      "remaining_in_shadow": 0
+    },
+    {
+      "mesh": "V23_DETAIL_Chunk_PHONES_V23_2_16",
+      "removed_people_or_lights": 88,
+      "remaining_in_shadow": 0
+    },
+    {
+      "mesh": "V23_DETAIL_Chunk_CROWD_V23_2_17",
+      "removed_people_or_lights": 989,
+      "remaining_in_shadow": 0
+    },
+    {
+      "mesh": "V23_DETAIL_Chunk_PHONES_V23_2_17",
+      "removed_people_or_lights": 134,
+      "remaining_in_shadow": 0
+    },
+    {
+      "mesh": "Chunk_CROWD_V23_1_16_L1",
+      "removed_people_or_lights": 227,
+      "remaining_in_shadow": 0
+    },
+    {
+      "mesh": "Chunk_CROWD_V23_1_17_L1",
+      "removed_people_or_lights": 320,
+      "remaining_in_shadow": 0
+    },
+    {
+      "mesh": "Chunk_CROWD_V23_2_16_L1",
+      "removed_people_or_lights": 679,
+      "remaining_in_shadow": 0
+    },
+    {
+      "mesh": "Chunk_CROWD_V23_2_17_L1",
+      "removed_people_or_lights": 989,
+      "remaining_in_shadow": 0
+    }
+  ]
+}
