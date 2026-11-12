@@ -1,0 +1,14 @@
+{
+  "version": "v26",
+  "audience": 6866,
+  "phones_before": 2464,
+  "orphan_phones_removed": 253,
+  "phones_after": 2211,
+  "source_export_phone_positions_match": true,
+  "side_stair_clear_width": 3.005,
+  "marked_treads": 11,
+  "new_meshes": 2,
+  "base_route_segments": 66,
+  "stair_clearance_segments": 126,
+  "failures": []
+}

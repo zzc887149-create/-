@@ -1,10 +1,10 @@
 {
-  "version": "v25",
+  "version": "v26",
   "chunks": 518,
   "LOD_groups": 176,
-  "near_triangles": 5879125,
-  "far_triangles": 3862569,
-  "sha256": "1a035e118c01e2af1cafb97aa56b5ebd125f0c65f8a3b8734f8a3bb0abdd28a8",
+  "near_triangles": 5877425,
+  "far_triangles": 3860869,
+  "sha256": "715176b3e5216dd67f9fe1ad211e86a46ddc06a0a80b36f321d8fac3d6fd0296",
   "details": [
     {
       "chunk": "Chunk_ARCH_A_00_BNE_000",
@@ -1281,8 +1281,8 @@
     {
       "chunk": "Chunk_ARCH_A_10_BNE_033",
       "category": "ARCH",
-      "near_triangles": 19388,
-      "far_triangles": 19388
+      "near_triangles": 19484,
+      "far_triangles": 19484
     },
     {
       "chunk": "Chunk_ARCH_A_11_BNE_033",
@@ -1317,8 +1317,8 @@
     {
       "chunk": "Chunk_ARCH_A_13_BNE_033",
       "category": "ARCH",
-      "near_triangles": 23460,
-      "far_triangles": 23460
+      "near_triangles": 23556,
+      "far_triangles": 23556
     },
     {
       "chunk": "Chunk_ARCH_A_13_BNE_034",
@@ -1419,26 +1419,26 @@
     {
       "chunk": "Chunk_ARCH_A_10_BNE_035",
       "category": "ARCH",
-      "near_triangles": 645,
-      "far_triangles": 645
+      "near_triangles": 693,
+      "far_triangles": 693
     },
     {
       "chunk": "Chunk_ARCH_A_12_BNE_035",
       "category": "ARCH",
-      "near_triangles": 270,
-      "far_triangles": 270
+      "near_triangles": 300,
+      "far_triangles": 300
     },
     {
       "chunk": "Chunk_ARCH_A_11_BNE_035",
       "category": "ARCH",
-      "near_triangles": 454,
-      "far_triangles": 454
+      "near_triangles": 460,
+      "far_triangles": 460
     },
     {
       "chunk": "Chunk_ARCH_A_13_BNE_035",
       "category": "ARCH",
-      "near_triangles": 731,
-      "far_triangles": 731
+      "near_triangles": 779,
+      "far_triangles": 779
     },
     {
       "chunk": "Chunk_ARCH_A_14_BNE_035",
@@ -2739,8 +2739,8 @@
     {
       "chunk": "Chunk_PHONES_F_0_4_BNE_025",
       "category": "PHONES",
-      "near_triangles": 568,
-      "far_triangles": 568
+      "near_triangles": 456,
+      "far_triangles": 456
     },
     {
       "chunk": "Chunk_CHAIRS_F_1_4_BNE_023",
@@ -2763,8 +2763,8 @@
     {
       "chunk": "Chunk_PHONES_F_1_4_BNE_025",
       "category": "PHONES",
-      "near_triangles": 1928,
-      "far_triangles": 1928
+      "near_triangles": 1784,
+      "far_triangles": 1784
     },
     {
       "chunk": "Chunk_CHAIRS_F_2_4_BNE_023",
@@ -2787,8 +2787,8 @@
     {
       "chunk": "Chunk_PHONES_F_2_4_BNE_025",
       "category": "PHONES",
-      "near_triangles": 1992,
-      "far_triangles": 1992
+      "near_triangles": 1816,
+      "far_triangles": 1816
     },
     {
       "chunk": "Chunk_CHAIRS_F_3_4_BNE_023",
@@ -2811,8 +2811,8 @@
     {
       "chunk": "Chunk_PHONES_F_3_4_BNE_025",
       "category": "PHONES",
-      "near_triangles": 2016,
-      "far_triangles": 2016
+      "near_triangles": 1800,
+      "far_triangles": 1800
     },
     {
       "chunk": "Chunk_CHAIRS_F_4_4_BNE_023",
@@ -2835,8 +2835,8 @@
     {
       "chunk": "Chunk_PHONES_F_4_4_BNE_025",
       "category": "PHONES",
-      "near_triangles": 640,
-      "far_triangles": 640
+      "near_triangles": 576,
+      "far_triangles": 576
     },
     {
       "chunk": "Chunk_CHAIRS_F_0_3_BNE_023",
@@ -2859,8 +2859,8 @@
     {
       "chunk": "Chunk_PHONES_F_0_3_BNE_025",
       "category": "PHONES",
-      "near_triangles": 672,
-      "far_triangles": 672
+      "near_triangles": 608,
+      "far_triangles": 608
     },
     {
       "chunk": "Chunk_CHAIRS_F_1_3_BNE_023",
@@ -2883,8 +2883,8 @@
     {
       "chunk": "Chunk_PHONES_F_1_3_BNE_025",
       "category": "PHONES",
-      "near_triangles": 2032,
-      "far_triangles": 2032
+      "near_triangles": 1760,
+      "far_triangles": 1760
     },
     {
       "chunk": "Chunk_CHAIRS_F_2_3_BNE_023",
@@ -2907,8 +2907,8 @@
     {
       "chunk": "Chunk_PHONES_F_2_3_BNE_025",
       "category": "PHONES",
-      "near_triangles": 1832,
-      "far_triangles": 1832
+      "near_triangles": 1648,
+      "far_triangles": 1648
     },
     {
       "chunk": "Chunk_CHAIRS_F_3_3_BNE_023",
@@ -2931,8 +2931,8 @@
     {
       "chunk": "Chunk_PHONES_F_3_3_BNE_025",
       "category": "PHONES",
-      "near_triangles": 2064,
-      "far_triangles": 2064
+      "near_triangles": 1920,
+      "far_triangles": 1920
     },
     {
       "chunk": "Chunk_CHAIRS_F_4_3_BNE_023",
@@ -2955,8 +2955,8 @@
     {
       "chunk": "Chunk_PHONES_F_4_3_BNE_025",
       "category": "PHONES",
-      "near_triangles": 568,
-      "far_triangles": 568
+      "near_triangles": 504,
+      "far_triangles": 504
     },
     {
       "chunk": "Chunk_CHAIRS_F_0_2_BNE_023",
@@ -2979,8 +2979,8 @@
     {
       "chunk": "Chunk_PHONES_F_0_2_BNE_025",
       "category": "PHONES",
-      "near_triangles": 680,
-      "far_triangles": 680
+      "near_triangles": 608,
+      "far_triangles": 608
     },
     {
       "chunk": "Chunk_CHAIRS_F_1_2_BNE_023",
@@ -3003,8 +3003,8 @@
     {
       "chunk": "Chunk_PHONES_F_1_2_BNE_025",
       "category": "PHONES",
-      "near_triangles": 2200,
-      "far_triangles": 2200
+      "near_triangles": 1984,
+      "far_triangles": 1984
     },
     {
       "chunk": "Chunk_CHAIRS_F_3_2_BNE_023",
@@ -3027,8 +3027,8 @@
     {
       "chunk": "Chunk_PHONES_F_3_2_BNE_025",
       "category": "PHONES",
-      "near_triangles": 1928,
-      "far_triangles": 1928
+      "near_triangles": 1704,
+      "far_triangles": 1704
     },
     {
       "chunk": "Chunk_CHAIRS_F_4_2_BNE_023",
@@ -3051,8 +3051,8 @@
     {
       "chunk": "Chunk_PHONES_F_4_2_BNE_025",
       "category": "PHONES",
-      "near_triangles": 592,
-      "far_triangles": 592
+      "near_triangles": 520,
+      "far_triangles": 520
     },
     {
       "chunk": "Chunk_ARCH_A_13_BNE_009",

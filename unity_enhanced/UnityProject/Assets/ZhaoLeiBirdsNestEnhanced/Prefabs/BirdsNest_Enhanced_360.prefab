@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &1087423881724633323
+--- !u!1001 &7704388872266764152
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -297,12 +297,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1725332626a6d5e42934d1d97ca2a68a, type: 3}
---- !u!4 &620924174420166400 stripped
+--- !u!4 &7881798119905798291 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 1725332626a6d5e42934d1d97ca2a68a, type: 3}
-  m_PrefabInstance: {fileID: 1087423881724633323}
+  m_PrefabInstance: {fileID: 7704388872266764152}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &9050372765108758025
+--- !u!1001 &7879466458841038281
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -551,10 +551,10 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9110825b88c36a84bbd34aa99e82635f, type: 3}
---- !u!4 &8796615742470488546 stripped
+--- !u!4 &7697713351256594978 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 9110825b88c36a84bbd34aa99e82635f, type: 3}
-  m_PrefabInstance: {fileID: 9050372765108758025}
+  m_PrefabInstance: {fileID: 7879466458841038281}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9077425843769286273
 PrefabInstance:
@@ -5109,10 +5109,10 @@ PrefabInstance:
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: dda9344fa9e7214419e74d830a07353b, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 620924174420166400}
+      addedObject: {fileID: 7881798119905798291}
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: dda9344fa9e7214419e74d830a07353b, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 8796615742470488546}
+      addedObject: {fileID: 7697713351256594978}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: -9159738929837331999, guid: dda9344fa9e7214419e74d830a07353b, type: 3}
       insertIndex: -1

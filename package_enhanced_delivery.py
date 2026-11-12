@@ -28,6 +28,6 @@ def archive(source,name,parts=None):
         z.write(OUT/'使用说明.md','使用说明.md')
     print(name,round((OUT/name).stat().st_size/1048576,1),'MB')
 archive(OUT/'UnityProject','BirdsNest_Unity6_Enhanced_Project.zip',{'Assets','Packages','ProjectSettings'})
-archive(OUT/'WindowsPreview_v25','BirdsNest_WindowsPreview.zip')
+archive(OUT/'WindowsPreview_v26','BirdsNest_WindowsPreview.zip')
 files=[latest,OUT/'BirdsNest_Unity6_Enhanced_Project.zip',OUT/'BirdsNest_WindowsPreview.zip',OUT/'BirdsNest_Enhanced.unitypackage',ROOT/'赵雷2026_鸟巢_座位图内场版.blend']
 (OUT/'delivery_manifest.json').write_text(json.dumps([{'file':str(p.relative_to(ROOT)),'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()} for p in files],indent=2,ensure_ascii=False),encoding='utf-8')

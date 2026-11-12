@@ -252,7 +252,8 @@ for bname, r_idx, c_idx, x0, x1, y0, y1 in BLOCKS:
                 d_add_box(db_l, (x + xx, y + 0.15, 0.25), (0.026, 0.027, 0.50))
 
             # Spectator (~90% occupancy)
-            if rng.random() < 0.90:
+            occupied = rng.random() < 0.90
+            if occupied:
                 total_spectators += 1
                 ci = rng.randrange(5)
                 crowd_builders[ci].box((x, y, 1.08), (0.39, 0.32, 0.67))
@@ -268,7 +269,7 @@ for bname, r_idx, c_idx, x0, x1, y0, y1 in BLOCKS:
                     d_add_oct(db_cr, (x, y, 1.62), 0.13, skin_color)
 
             # Phone light (~32% of seats)
-            if rng.random() < 0.32:
+            if rng.random() < 0.32 and occupied:
                 total_phones += 1
                 ph_pos = (x + 0.15, y + 0.12, 1.70 + rng.random() * 0.38)
                 phones.oct(ph_pos, 0.045)

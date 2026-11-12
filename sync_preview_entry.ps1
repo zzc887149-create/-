@@ -1,5 +1,5 @@
 ﻿$ErrorActionPreference = 'Stop'
-$previewDirectory = Join-Path $PSScriptRoot 'unity_enhanced\WindowsPreview_v25'
+$previewDirectory = Join-Path $PSScriptRoot 'unity_enhanced\WindowsPreview_v26'
 $previewExecutable = Join-Path $previewDirectory 'BirdsNest.exe'
 foreach ($required in @('BirdsNest.exe', 'BirdsNest_Data', 'UnityPlayer.dll')) {
     if (!(Test-Path -LiteralPath (Join-Path $previewDirectory $required))) {
