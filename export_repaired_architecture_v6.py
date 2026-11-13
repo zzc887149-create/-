@@ -40,7 +40,11 @@ for name,b in buckets.items():
  b.clear()
 bpy.context.window.scene=D
 f=PKG/'Models/BirdsNest_Enhanced.fbx'
-bpy.ops.export_scene.fbx(filepath=str(f),use_selection=False,use_visible=False,object_types={'MESH','EMPTY'},global_scale=1,apply_unit_scale=True,apply_scale_options='FBX_SCALE_UNITS',axis_forward='-Z',axis_up='Y',bake_space_transform=False,use_mesh_modifiers=True,mesh_smooth_type='OFF',colors_type='LINEAR',bake_anim=False,path_mode='STRIP',embed_textures=False,add_leaf_bones=False)
+# Export outside Assets, then replace: do not truncate a model still mapped by
+# another process, or let Unity import a partially written FBX.
+pending=OUT/'BirdsNest_Enhanced_export.fbx'
+bpy.ops.export_scene.fbx(filepath=str(pending),use_selection=False,use_visible=False,object_types={'MESH','EMPTY'},global_scale=1,apply_unit_scale=True,apply_scale_options='FBX_SCALE_UNITS',axis_forward='-Z',axis_up='Y',bake_space_transform=False,use_mesh_modifiers=True,mesh_smooth_type='OFF',colors_type='LINEAR',bake_anim=False,path_mode='STRIP',embed_textures=False,add_leaf_bones=False)
+pending.replace(f)
 bpy.context.window.scene=S
 p=OUT/'optimization_geometry.json';report=json.loads(p.read_text(encoding='utf-8'));report['details']=[r for r in report['details'] if r['category']!='ARCH']+newreports
 report.update(chunks=len(report['details']),near_triangles=sum(r['near_triangles'] for r in report['details']),far_triangles=sum(r['far_triangles'] for r in report['details']),sha256=hashlib.sha256(f.read_bytes()).hexdigest())

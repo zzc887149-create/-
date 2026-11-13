@@ -1,0 +1,21 @@
+{
+  "version": "v27",
+  "monitors": 14,
+  "monitor_stands": 14,
+  "rack_displays": 2,
+  "fader_banks": 7,
+  "faders": 112,
+  "phone_material_unchanged": true,
+  "new_materials": 3,
+  "marked_treads": 11,
+  "display_night_emission": [
+    0.044000000000000004,
+    0.10450000000000001,
+    0.15400000000000003
+  ],
+  "meter_night_emission": [
+    0.09100000000000001,
+    0.35750000000000004,
+    0.21450000000000002
+  ]
+}

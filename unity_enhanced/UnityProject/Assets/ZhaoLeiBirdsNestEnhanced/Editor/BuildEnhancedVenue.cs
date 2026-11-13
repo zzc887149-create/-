@@ -56,6 +56,7 @@ public static class BuildEnhancedVenue {
     else if(v.label.Contains("旧墙")){m.SetTexture("_EmissionMap",tex);e.day=Color.black;e.night=new Color(.45f,.18f,.09f)*.14f;}
     else if(v.label=="phone"){e.day=Color.black;e.night=new Color(.55f,.75f,1)*5;}
     else if(v.label=="warm"){e.day=Color.black;e.night=C(v.emission)*.38f;}
+    else if(v.name=="BNE_FOH_DISPLAY"||v.name=="BNE_FOH_METER"){e.day=e.night=C(v.emission)*Mathf.Min(v.strength,.7f);}
     else {e.day=C(v.emission)*.08f;e.night=C(v.emission)*Mathf.Min(v.strength,1.6f);}
     emission.Add(e);
    }
@@ -148,6 +149,11 @@ public static class BuildEnhancedVenue {
   EditorSceneManager.OpenScene(ScenePath);var modes=UnityEngine.Object.FindFirstObjectByType<VenueModes>();var entries=modes.emissions.ToList();
   var ts=modes.geometry.GetComponentsInChildren<Transform>(true);origin=ts.First(t=>t.name.StartsWith("LOOK_09")).position;bz=(ts.First(t=>t.name.StartsWith("LOOK_01")).position-origin)/23;by=(ts.First(t=>t.name.StartsWith("LOOK_04")).position-origin-bz*17)/62;bx=-(ts.First(t=>t.name.StartsWith("VIEW_06")).position-origin-bz*20)/90;
   foreach(var record in JsonUtility.FromJson<MaterialFile>(File.ReadAllText(Base+"/materials.json")).materials){
+   if(record.name=="BNE_FOH_DISPLAY"||record.name=="BNE_FOH_METER"){
+    var display=AssetDatabase.LoadAssetAtPath<Material>(Base+"/Materials/"+record.name+".mat");
+    if(display){entries.RemoveAll(e=>e.material==display);var light=C(record.emission)*Mathf.Min(record.strength,.7f);entries.Add(new EmissionSetting{material=display,day=light,night=light});EditorUtility.SetDirty(display);}
+    continue;
+   }
    if(record.label!="外层浅灰钢带"&&record.label!="外碗赭红混凝土"&&record.label!="membrane")continue;
    var m=AssetDatabase.LoadAssetAtPath<Material>(Base+"/Materials/"+record.name+".mat");m.shader=Shader.Find("BirdsNest/ArchitecturalLit");m.enableInstancing=true;
    entries.RemoveAll(e=>e.material==m);entries.Add(ArchitectureEmission(m,record.label));EditorUtility.SetDirty(m);

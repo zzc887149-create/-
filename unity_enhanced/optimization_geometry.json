@@ -1,10 +1,10 @@
 {
-  "version": "v26",
-  "chunks": 518,
+  "version": "v27",
+  "chunks": 522,
   "LOD_groups": 176,
-  "near_triangles": 5877425,
-  "far_triangles": 3860869,
-  "sha256": "715176b3e5216dd67f9fe1ad211e86a46ddc06a0a80b36f321d8fac3d6fd0296",
+  "near_triangles": 5883977,
+  "far_triangles": 3867421,
+  "sha256": "e3de170411d895d011eae5bab16074333a0c353bcd2628db50ea928b743d1722",
   "details": [
     {
       "chunk": "Chunk_ARCH_A_00_BNE_000",
@@ -69,26 +69,26 @@
     {
       "chunk": "Chunk_ARCH_A_10_BNE_000",
       "category": "ARCH",
-      "near_triangles": 774,
-      "far_triangles": 774
+      "near_triangles": 1164,
+      "far_triangles": 1164
     },
     {
       "chunk": "Chunk_ARCH_A_11_BNE_000",
       "category": "ARCH",
-      "near_triangles": 710,
-      "far_triangles": 710
+      "near_triangles": 1832,
+      "far_triangles": 1832
     },
     {
       "chunk": "Chunk_ARCH_A_12_BNE_000",
       "category": "ARCH",
-      "near_triangles": 802,
-      "far_triangles": 802
+      "near_triangles": 1924,
+      "far_triangles": 1924
     },
     {
       "chunk": "Chunk_ARCH_A_13_BNE_000",
       "category": "ARCH",
-      "near_triangles": 774,
-      "far_triangles": 774
+      "near_triangles": 1164,
+      "far_triangles": 1164
     },
     {
       "chunk": "Chunk_ARCH_A_14_BNE_000",
@@ -903,14 +903,14 @@
     {
       "chunk": "Chunk_ARCH_A_12_BNE_009",
       "category": "ARCH",
-      "near_triangles": 44,
-      "far_triangles": 44
+      "near_triangles": 134,
+      "far_triangles": 134
     },
     {
       "chunk": "Chunk_ARCH_A_11_BNE_009",
       "category": "ARCH",
-      "near_triangles": 26,
-      "far_triangles": 26
+      "near_triangles": 108,
+      "far_triangles": 108
     },
     {
       "chunk": "Chunk_ARCH_A_03_BNE_026",
@@ -1419,26 +1419,26 @@
     {
       "chunk": "Chunk_ARCH_A_10_BNE_035",
       "category": "ARCH",
-      "near_triangles": 693,
-      "far_triangles": 693
+      "near_triangles": 645,
+      "far_triangles": 645
     },
     {
       "chunk": "Chunk_ARCH_A_12_BNE_035",
       "category": "ARCH",
-      "near_triangles": 300,
-      "far_triangles": 300
+      "near_triangles": 270,
+      "far_triangles": 270
     },
     {
       "chunk": "Chunk_ARCH_A_11_BNE_035",
       "category": "ARCH",
-      "near_triangles": 460,
-      "far_triangles": 460
+      "near_triangles": 454,
+      "far_triangles": 454
     },
     {
       "chunk": "Chunk_ARCH_A_13_BNE_035",
       "category": "ARCH",
-      "near_triangles": 779,
-      "far_triangles": 779
+      "near_triangles": 731,
+      "far_triangles": 731
     },
     {
       "chunk": "Chunk_ARCH_A_14_BNE_035",
@@ -3057,62 +3057,86 @@
     {
       "chunk": "Chunk_ARCH_A_13_BNE_009",
       "category": "ARCH",
-      "near_triangles": 26,
-      "far_triangles": 26
+      "near_triangles": 66,
+      "far_triangles": 66
     },
     {
       "chunk": "Chunk_ARCH_A_10_BNE_009",
       "category": "ARCH",
-      "near_triangles": 26,
-      "far_triangles": 26
+      "near_triangles": 66,
+      "far_triangles": 66
     },
     {
-      "chunk": "Chunk_ARCH_A_10_BNE_025",
+      "chunk": "Chunk_ARCH_A_10_BNE_FOH_EDGE",
       "category": "ARCH",
-      "near_triangles": 40,
-      "far_triangles": 40
+      "near_triangles": 48,
+      "far_triangles": 48
     },
     {
-      "chunk": "Chunk_ARCH_A_11_BNE_025",
+      "chunk": "Chunk_ARCH_A_13_BNE_FOH_EDGE",
       "category": "ARCH",
-      "near_triangles": 56,
-      "far_triangles": 56
+      "near_triangles": 48,
+      "far_triangles": 48
     },
     {
-      "chunk": "Chunk_ARCH_A_12_BNE_025",
+      "chunk": "Chunk_ARCH_A_12_BNE_FOH_EDGE",
       "category": "ARCH",
-      "near_triangles": 56,
-      "far_triangles": 56
+      "near_triangles": 30,
+      "far_triangles": 30
     },
     {
-      "chunk": "Chunk_ARCH_A_13_BNE_025",
+      "chunk": "Chunk_ARCH_A_11_BNE_FOH_EDGE",
       "category": "ARCH",
-      "near_triangles": 40,
-      "far_triangles": 40
+      "near_triangles": 6,
+      "far_triangles": 6
     },
     {
-      "chunk": "Chunk_ARCH_A_10_BNE_004",
+      "chunk": "Chunk_ARCH_A_10_BNE_FOH_DISPLAY",
       "category": "ARCH",
-      "near_triangles": 24,
-      "far_triangles": 24
+      "near_triangles": 36,
+      "far_triangles": 36
     },
     {
-      "chunk": "Chunk_ARCH_A_11_BNE_004",
+      "chunk": "Chunk_ARCH_A_11_BNE_FOH_DISPLAY",
       "category": "ARCH",
-      "near_triangles": 26,
-      "far_triangles": 26
+      "near_triangles": 60,
+      "far_triangles": 60
     },
     {
-      "chunk": "Chunk_ARCH_A_12_BNE_004",
+      "chunk": "Chunk_ARCH_A_12_BNE_FOH_DISPLAY",
       "category": "ARCH",
-      "near_triangles": 34,
-      "far_triangles": 34
+      "near_triangles": 60,
+      "far_triangles": 60
     },
     {
-      "chunk": "Chunk_ARCH_A_13_BNE_004",
+      "chunk": "Chunk_ARCH_A_13_BNE_FOH_DISPLAY",
       "category": "ARCH",
-      "near_triangles": 24,
-      "far_triangles": 24
+      "near_triangles": 36,
+      "far_triangles": 36
+    },
+    {
+      "chunk": "Chunk_ARCH_A_10_BNE_FOH_METER",
+      "category": "ARCH",
+      "near_triangles": 542,
+      "far_triangles": 542
+    },
+    {
+      "chunk": "Chunk_ARCH_A_11_BNE_FOH_METER",
+      "category": "ARCH",
+      "near_triangles": 1150,
+      "far_triangles": 1150
+    },
+    {
+      "chunk": "Chunk_ARCH_A_12_BNE_FOH_METER",
+      "category": "ARCH",
+      "near_triangles": 1174,
+      "far_triangles": 1174
+    },
+    {
+      "chunk": "Chunk_ARCH_A_13_BNE_FOH_METER",
+      "category": "ARCH",
+      "near_triangles": 518,
+      "far_triangles": 518
     }
   ]
 }

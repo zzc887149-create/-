@@ -54,7 +54,7 @@ public class VenueModes:MonoBehaviour {
   float scale=Mathf.Min(Mathf.Clamp(Screen.height/900f,.8f,1.5f),Screen.height/718f,Screen.width/313f);var old=GUI.matrix;GUI.matrix=Matrix4x4.Scale(new Vector3(scale,scale,1));
   if(label==null){label=new GUIStyle(GUI.skin.label){font=uiFont,fontSize=14,wordWrap=true};button=new GUIStyle(GUI.skin.button){font=uiFont,fontSize=14};}
   GUI.Box(new Rect(14,14,285,694),"");
-  GUI.Label(new Rect(28,25,255,47),"鸟巢全场 · 内场分区 v25\n"+(night?"赵雷·没有信号｜夜景":"赵雷·没有信号｜日间"),label);
+  GUI.Label(new Rect(28,25,255,47),"鸟巢全场 · 中控细节 v27\n"+(night?"赵雷·没有信号｜夜景":"赵雷·没有信号｜日间"),label);
   if(GUI.Button(new Rect(28,78,255,30),night?"切换到日间  [N]":"切换到夜景  [N]",button))SetNight(!night);
   for(int i=0;i<fly.viewpoints.Length&&i<9;i++)if(GUI.Button(new Rect(28,119+i*25,255,23),(i+1)+"  "+names[i],button))fly.Jump(i);
   var closeNames=new[]{"舞台近景","楼梯连通","纪念空座"};for(int i=0;i<3;i++)if(fly.viewpoints.Length>9+i&&GUI.Button(new Rect(28+i*86,348,83,28),closeNames[i],button))fly.Jump(9+i);

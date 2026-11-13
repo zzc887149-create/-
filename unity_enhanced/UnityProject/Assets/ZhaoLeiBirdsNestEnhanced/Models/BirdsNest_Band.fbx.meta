@@ -257,6 +257,21 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: BNE_FOH_DISPLAY
+    second: {fileID: 2100000, guid: d8edc340d93782247b8bc86a0367ba66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BNE_FOH_EDGE
+    second: {fileID: 2100000, guid: e39c3ce1ba55641478315752cbe9f8ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BNE_FOH_METER
+    second: {fileID: 2100000, guid: 32253ece22c37b942b4a80daebcdb6bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: ConcertBeam
     second: {fileID: 2100000, guid: e84ca1054558f914fac79bd7039b10f2, type: 2}
   - first:

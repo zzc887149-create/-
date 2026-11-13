@@ -23,6 +23,8 @@
 !/unity_enhanced/checks/v25*.png
 !/unity_enhanced/checks/v26*.json
 !/unity_enhanced/checks/v26*.png
+!/unity_enhanced/checks/v27*.json
+!/unity_enhanced/checks/v27*.png
 !/unity_enhanced/checks/*交付验证.md
 /unity_enhanced/UnityProject/*
 !/unity_enhanced/UnityProject/Assets/

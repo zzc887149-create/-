@@ -1,0 +1,7 @@
+{
+  "cases": 72,
+  "frames_per_case": 30,
+  "runtime_errors": [],
+  "initial_run": "D3D12 invalid disk cache; repeated after automatic recreation",
+  "verified_log": "v27_player_verified.log"
+}
